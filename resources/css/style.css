@@ -1,31 +1,23 @@
 html {
-  font-family: Verdana;
+  font-family: Verdana, sans-serif;
   background-color: Black;
   text-align: center;
+  color: white;
 }
-
 
 h1 {
   font-weight: normal;
   font-size: 50px;
-  color: White;
 }
 
-a:link,
-a:visited {
+.dl {
   font-size: 16px;
   color: aquamarine;
-}
-
-a:hover,
-a:active {
-  filter: brightness(140%);
 }
 
 h2 {
   font-weight: 300;
   font-size: 42px;
-  color: white;
 }
 
 p {
